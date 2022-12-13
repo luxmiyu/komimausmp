@@ -9,7 +9,7 @@ For now, this will just be a place to host mods and resources that I use to play
 ### [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
 
 <div align="center">
-  <img width="800px" src="https://media.forgecdn.net/attachments/290/163/nether-house.png">
+  <img width="800px" src="https://i.imgur.com/SuGMYes.png">
 </div>
 
 ## Shader Pack
