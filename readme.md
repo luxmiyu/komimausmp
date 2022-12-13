@@ -116,4 +116,6 @@ Download this mod list: https://github.com/luxmiyu/komimausmp/releases/
 | Interface   | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)                                              | 1.28.4  |
 | Dependency  | [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl)                                                        |  1.7.1  |
 
+13 Dependency, 9 Utility, 29 Interface, 18 Cosmetic, 5 Fix, 10 Performance, 1 Privacy
+
 </div>
