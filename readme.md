@@ -24,6 +24,8 @@ For now, this will just be a place to host mods and resources that I use to play
 
 Fabric Modloader: https://fabricmc.net/
 
+Download this mod list: https://github.com/luxmiyu/komimausmp/releases/
+
 <div align="center">
 
 | Category    | Name                                                                                                                            | Version |
