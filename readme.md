@@ -26,6 +26,12 @@ Fabric Modloader: https://fabricmc.net/
 
 Download this mod list: https://github.com/luxmiyu/komimausmp/releases/
 
+**Note:** Some of these mods (especially ones adding HUD features) will have to be configured so they don't overlap each other!
+
+**Note:** some of these mods have updated to 1.19.3, but may be incompatible with 1.19.2,
+for that reason I've also included a version number that I've personally tested to work on 1.19.2.
+The versions listed here are the ones that are packed in the zip file.
+
 <div align="center">
 
 | Category    | Name                                                                                                                            | Version |
