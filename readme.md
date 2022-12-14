@@ -4,6 +4,8 @@ Join our Discord Server [discord.gg/komimau](https://discord.gg/komimau)!
 
 For now, this will just be a place to host mods and resources that I use to play vanilla Minecraft 1.19.2. I'll also be using these on KomimauSMP.
 
+**INSTALL INSTRUCTIONS:** https://github.com/luxmiyu/komimausmp/wiki/Installation-Instructions
+
 ## Resource Pack
 
 ### [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
