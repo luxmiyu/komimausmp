@@ -16,7 +16,7 @@ For now, this will just be a place to host mods and resources that I use to play
 
 ## Shader Pack
 
-### [Sildur's Vibrant Shaders](https://www.curseforge.com/minecraft/customization/sildurs-vibrant-shaders)
+### [Sildur's Vibrant Shaders](https://sildurs-shaders.github.io/downloads/)
 
 <div align="center">
   <img width="800px" src="https://i.imgur.com/wR86Atk.png">
